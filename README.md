@@ -24,6 +24,11 @@ To run unit tests ( react testing library) & snapshot testing.
 This is a project practicing installing - [webpack](https://webpack.js.org/).
 Adding few components like:
 
+- react-bootstrap
+- react-testing-library
+- jest
+- lodash
+- react-redux
 - CSS to JS file
 - CSS to JS file to DOM( inline tag)
 - Export Css to separate file
