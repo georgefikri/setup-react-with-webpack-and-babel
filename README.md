@@ -1,6 +1,6 @@
-# React Project with Webpack
+# Setup react with webpack and babel
 
-React Project with [redux, router, thunk, redux-persist, unit testing] installed
+React Project with [babel,redux, router, thunk, redux-persist, unit testing] installed
 
 ## Available Scripts
 
